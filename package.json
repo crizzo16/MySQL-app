@@ -1,0 +1,26 @@
+{
+  "name": "MySQL-app",
+  "version": "1.0.0",
+  "description": "A basic storefront app using MySQL and Node to monitor a store.",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crizzo16/MySQL-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crizzo16/MySQL-app/issues"
+  },
+  "homepage": "https://github.com/crizzo16/MySQL-app#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "dotenv": "^6.0.0",
+    "inquirer": "^6.1.0",
+    "mysql": "^2.16.0"
+  }
+}
